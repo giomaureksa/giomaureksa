@@ -35,7 +35,6 @@ I believe in structured thinking, analytical depth, and continuous learning.
 - 📚 Deepening my understanding of Machine Learning & Data Science
 - 🧪 Building small applied AI projects
 - 🌐 Developing technical and analytical portfolio projects
-- 📈 Preparing for freelance opportunities in data entry & data mining
 - 🛠 Strengthening Python and data ecosystem skills
 
 
