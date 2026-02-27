@@ -56,7 +56,7 @@ I believe in structured thinking, analytical depth, and continuous learning.
 
 
 ## Let's Connect!
-![https://linkedin.com/in/giomaureksanugraha](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://instagram.com/giomaureksan](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://kaggle.com/giomaureksanugraha](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giomaureksanugraha) ![https://instagram.com/giomaureksan](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://kaggle.com/giomaureksanugraha](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 
 I'm open to collaboration, research discussions, engineering projects, and AI-related opportunities.
