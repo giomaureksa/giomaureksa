@@ -1,5 +1,3 @@
-<h1 align="left">Hi there, I'm Gio Maureksa Nugraha 👋</h1>
-
 ![Header](./github-header-banner.png)
 
 <!--
@@ -16,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<p align="center">
-🎓 Engineering Physics Student at Universitas Gadjah Mada <br>
-⚡ Interested in Instrumentation, Control Systems, Programming & AI <br>
-📊 Aspiring Data Scientist | AI/ML Enthusiast | Tech-Driven Problem Solver
-</p>
-
 
 ## About Me
 
